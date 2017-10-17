@@ -1,0 +1,10 @@
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\ConsoleApp1SimpleScraper.exe.config
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\ConsoleApp1SimpleScraper.exe
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\ConsoleApp1SimpleScraper.pdb
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\obj\Debug\ConsoleApp1SimpleScraper.csprojResolveAssemblyReference.cache
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\obj\Debug\ConsoleApp1SimpleScraper.csproj.CoreCompileInputs.cache
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\obj\Debug\ConsoleApp1SimpleScraper.exe
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\obj\Debug\ConsoleApp1SimpleScraper.pdb
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\dubetskyi_ov\documents\visual studio 2017\Projects\ConsoleApp1SimpleScraper\ConsoleApp1SimpleScraper\bin\Debug\HtmlAgilityPack.xml
