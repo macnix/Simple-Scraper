@@ -45,7 +45,7 @@ namespace ConsoleApp1SimpleScraper
             string csv = csvHeaderRow + String.Join(Environment.NewLine, output.Select(x => string.Join(",", x.INPUT_URL, x.EXTERNAL_URL)).ToArray());
             File.WriteAllLines(@"c:\tmp\2-SampleOutputFile.csv", new string[] { csv }, Encoding.Unicode);
 
-            Console.WriteLine("Done!");
+            Console.WriteLine("Done! "+ output.Count);
             Console.ReadKey();
             #endregion
 

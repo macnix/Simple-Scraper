@@ -1,2 +1,0 @@
-# Simple-Scraper
-The purpose of this project is to create a very simple web scraper that retrieves URLs from an input CSV file, navigates to each URL and crawls the entire website and writes to an output CSV file 2 columns of results:  a) the original root URL from the input CSV and  b) the URL of every link on that website that is NOT from that domain (meaning, any external domain URLs on each website).  Attached you will find a sample input file (with 2 sample URLs) as well as a sample output file.
